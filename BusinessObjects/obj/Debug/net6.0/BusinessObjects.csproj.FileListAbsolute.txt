@@ -1,0 +1,15 @@
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+E:\PRN231_FA23\ManageLearningMaterials_PRN231_ProjectFinal\BusinessObjects\bin\Debug\net6.0\appsettings.json
