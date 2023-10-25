@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1r8H9+yClRYWYluO1Lrzx5NjsJol97WUQmJa36dD46BVPCIP1V3DngYg65+mjibZK01xA9VNkl9ayZk4gurpMg==",
+  "dgSpecHash": "I3Zgpg3xI3AZha/Ksi26loi1eCgjxxZOPoRkv9k6S31bK5SZf+Zjd4+5LBV3ZEDIyuPAlJPWDEhhZif4wjxdsA==",
   "success": true,
-  "projectFilePath": "E:\\PRN231_FA23\\ManageLearningMaterials_PRN231_ProjectFinal\\Repositories\\Repositories.csproj",
+  "projectFilePath": "E:\\PRN231_FA23\\ManagerLeanrningMaterial_PRN231\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
