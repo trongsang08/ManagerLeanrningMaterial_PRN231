@@ -3395,11 +3395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PRN231_FA23\\ManageLearningMaterials_PRN231_ProjectFinal\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "E:\\PRN231_FA23\\ManagerLeanrningMaterial_PRN231\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "E:\\PRN231_FA23\\ManageLearningMaterials_PRN231_ProjectFinal\\Repositories\\Repositories.csproj",
+      "projectPath": "E:\\PRN231_FA23\\ManagerLeanrningMaterial_PRN231\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-      "outputPath": "E:\\PRN231_FA23\\ManageLearningMaterials_PRN231_ProjectFinal\\Repositories\\obj\\",
+      "outputPath": "E:\\PRN231_FA23\\ManagerLeanrningMaterial_PRN231\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3420,11 +3420,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\PRN231_FA23\\ManageLearningMaterials_PRN231_ProjectFinal\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "E:\\PRN231_FA23\\ManageLearningMaterials_PRN231_ProjectFinal\\BusinessObjects\\BusinessObjects.csproj"
+            "E:\\PRN231_FA23\\ManagerLeanrningMaterial_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "E:\\PRN231_FA23\\ManagerLeanrningMaterial_PRN231\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "E:\\PRN231_FA23\\ManageLearningMaterials_PRN231_ProjectFinal\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\PRN231_FA23\\ManageLearningMaterials_PRN231_ProjectFinal\\DataAccess\\DataAccess.csproj"
+            "E:\\PRN231_FA23\\ManagerLeanrningMaterial_PRN231\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\PRN231_FA23\\ManagerLeanrningMaterial_PRN231\\DataAccess\\DataAccess.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gAVgfXCUIVEeW6l6BQY6ZB91hvGwfM7s3lBE96QLihODJ1KAWZv+tXw3B0lkk6PrQCnzyn+Ck5Z1322wVIlALQ==",
+  "dgSpecHash": "lQVgaoC7/GoyVocg/PWfvHQgzvxDENH79KgfvdqqGEyH8s0x7iFZ5CUoLWNgBCXkoWLGpJ2J3SJgDpyNygYdrw==",
   "success": true,
-  "projectFilePath": "E:\\PRN231_FA23\\ManageLearningMaterials_PRN231_ProjectFinal\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "E:\\PRN231_FA23\\ManagerLeanrningMaterial_PRN231\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\msi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
